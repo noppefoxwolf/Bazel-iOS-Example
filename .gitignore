@@ -1,0 +1,4 @@
+.tulsi
+*.xcodeproj
+
+bazel-*
